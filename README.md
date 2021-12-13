@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=yadro&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=yadro)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=yadro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
